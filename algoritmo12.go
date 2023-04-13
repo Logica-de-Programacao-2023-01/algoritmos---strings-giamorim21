@@ -5,6 +5,10 @@ import (
 	"strings"
 )
 
+////Escreva um programa que receba uma string
+//e verifique se ela é um palíndromo.
+//Informe ao usuário se é ou não.
+
 func main() {
 	var x string
 	fmt.Println("Digite uma string:")
